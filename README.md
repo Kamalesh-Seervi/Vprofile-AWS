@@ -145,4 +145,9 @@ telnet <host name of service>
 - Then now create a ELB.
 - Add HTTPS to as listener.
 - Then in secure listener settings add ACM certificate.
-- Thus load balance is created
+- Thus load balance is created\
+
+## AutoScaling :
+
+<img width="1552" alt="image" src="https://github.com/Kamalesh-Seervi/Vprofile-AWS/assets/107933310/6b33c7ef-0f56-4393-9463-17c18bfa7286">
+
